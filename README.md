@@ -1,4 +1,4 @@
-## React Native Workspace for Speedy Development
+## Setup React Native Workspace for Fast Development
 
 This note would help you setup the right work environment for your react native development which includes:
 
